@@ -30,3 +30,10 @@ A modern, high-performance eCommerce frontend application built with **ReactJS**
 1. **Clone the repository**:
    ```bash
    git clone [https://github.com/KJSubodh/React-eCommerce-App.git](https://github.com/KJSubodh/React-eCommerce-App.git)
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+3. **Run the development server**:
+   ```bash
+   npm run dev
